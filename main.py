@@ -1,7 +1,5 @@
 from classes.weapon import Sword, Bow
-from classes.fighter import Fighter
-from classes.monster import Monster
-
+from classes.character import Fighter, Monster
 
 def main():
     fighter = Fighter("Герой")
